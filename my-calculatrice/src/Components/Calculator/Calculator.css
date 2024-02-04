@@ -1,0 +1,22 @@
+.calculator {
+    top: 50%;
+    left: -150%;
+    position: relative;
+    transform: translate(-50% -50%);
+    margin: 0 auto;
+    width: 256px;
+    text-align: center;
+    border: 10px solid #101116;
+    background: #101116;
+    border-radius: 5px;
+}
+
+.buttons {
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background: #262834;
+    color: #ffffff;
+    font-weight: 500;
+}
